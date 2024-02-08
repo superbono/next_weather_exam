@@ -10,7 +10,7 @@ const MainPage = async () => {
 
   return (
     <div>
-      <h2>오늘의 날씨</h2>
+      <h2>오늘의 날씨 - ch</h2>
       <p>{time.dateTime}</p>
       <ul className={style.list}>
         <li>
